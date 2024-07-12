@@ -16,9 +16,7 @@ CarType: Target variable indicating the type of car (0 for one type, 1 for anoth
 Project Structure
 Car Type Classifier.ipynb: Jupyter Notebook containing the entire workflow from data preprocessing to model evaluation.
 README.md: Project documentation.
-data/: Directory containing the dataset.
-images/: Directory containing images used in the project (e.g., correlation matrix, confusion matrix).
-Dependencies
+
 Python 3.x
 Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, Jupyter
 
